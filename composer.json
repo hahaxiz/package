@@ -1,0 +1,11 @@
+{
+  "name": "hahaxiz/packagePra",
+  "description": "A test pack for composer.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "hahaxiz",
+      "email": "example@gmail.com"
+    }
+  ]
+}
